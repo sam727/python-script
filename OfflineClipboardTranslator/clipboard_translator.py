@@ -6,7 +6,7 @@
 # from_lang = next(lang for lang in installed_languages if lang.code == "en")
 # to_lang = next(lang for lang in installed_languages if lang.code == "ko")
 
-# # Translate from clipboard
+# Translate from clipboard
 # text = pyperclip.paste()
 # translated = from_lang.get_translation(to_lang).translate(text)
 # print("Translated:", translated)
